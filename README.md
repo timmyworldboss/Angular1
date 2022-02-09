@@ -6,7 +6,7 @@ technologies used
 challenges
 license
 ### Description
-it is a website that calculates users age and birthdays including month ,day and year.its very user friendly.
+it is a webapp that alows users to input quotes and upvote or downvote quotes as well as delete quotes
 
 #### Technologies used
 HTML for the body css for styling javascript for functionality
