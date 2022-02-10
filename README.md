@@ -13,7 +13,9 @@ HTML for the body css for styling javascript for functionality
 
 
 #### Technologies used
-HTML for the body css for styling
+angular
+typescript
+html
 
 ### Challenges
 some graphical difficulties were encountered and at the time the website is not responsive.
